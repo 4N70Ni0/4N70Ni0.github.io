@@ -1,2 +1,2 @@
-# 4N70Ni0.github.io
-# 4N70Ni0.github.io
+# Amanecer Linux
+Simula una página web de noticias sobre el mundo de GNU/Linux programada a mano usando HTML, CSS y JavaScript.
